@@ -7,6 +7,7 @@
 
 ### Tools
 
--[EXA](https://github.com/ogham/exa) A replacement of ls
+* [exa](https://the.exa.website/) A replacement of ls
+* [htop](https://hisham.hm/htop/) A replacement of top
 
 ### Languages
