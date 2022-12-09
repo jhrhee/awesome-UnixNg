@@ -25,6 +25,9 @@ It's the 21st centry. It is time to try new tools.
   * [ack](https://github.com/beyondgrep/ack3)
   * [ag](https://github.com/ggreer/the_silver_searcher)
   * [rg](https://github.com/BurntSushi/ripgrep)
+* git
+  * [lazygit](https://github.com/jesseduffield/lazygit)
+
 
 ### Languages
 
