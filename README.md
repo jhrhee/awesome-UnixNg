@@ -15,6 +15,8 @@ It's the 21st centry. It is time to try new tools.
 
 * ls 
   * [exa](https://the.exa.website/) 
+* cat
+  * [bat](https://github.com/sharkdp/bat)
 * top
   * [htop](https://hisham.hm/htop/)
 * screen
