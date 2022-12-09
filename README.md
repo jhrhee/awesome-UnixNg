@@ -27,7 +27,8 @@ It's the 21st centry. It is time to try new tools.
   * [rg](https://github.com/BurntSushi/ripgrep)
 * git
   * [lazygit](https://github.com/jesseduffield/lazygit)
-
+* find
+  * [fd](https://github.com/sharkdp/fd) under an evaluation
 
 ### Languages
 
