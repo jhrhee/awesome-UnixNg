@@ -19,3 +19,5 @@ It's the 21st centry. It is time to try new tools.
 
 ### Languages
 
+* [rust](https://www.rust-lang.org/) - A replacement of C, C++
+
