@@ -13,11 +13,16 @@ It's the 21st centry. It is time to try new tools.
 
 ### Utilities
 
-* [exa](https://the.exa.website/) - A replacement of ls
-* [htop](https://hisham.hm/htop/) - A replacement of top
-* [tmux](https://github.com/tmux/tmux) - A replacement of screen
+* ls 
+  * [exa](https://the.exa.website/) 
+* top
+  * [htop](https://hisham.hm/htop/)
+* screen
+  * [tmux](https://github.com/tmux/tmux) 
+* grep
+  * [ack](https://github.com/beyondgrep/ack3)
+  * [ag](https://github.com/ggreer/the_silver_searcher)
+  * [rg](https://github.com/BurntSushi/ripgrep)
 
 ### Languages
-
-* [rust](https://www.rust-lang.org/) - A replacement of C, C++
 
