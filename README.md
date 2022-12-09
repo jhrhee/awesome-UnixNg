@@ -1,14 +1,17 @@
-# awesome-UnixNg
+# Awesome-UnixNg
 
-* New generation tools in Unix (Linux, MacOS etc.)
-* It's the 21st centry. Time to try new tools.
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+This list is a survey of new generation tools of Unix (Linux, MacOS etc.). 
+It's the 21st centry. It is time to try new tools.
+
+# Contents 
 
 ### Shells
 
 * [oh-my-zsh](https://ohmyz.sh/) Zsh with support
 
-
-### Tools
+### Utilities
 
 * [exa](https://the.exa.website/) A replacement of ls
 * [htop](https://hisham.hm/htop/) A replacement of top
