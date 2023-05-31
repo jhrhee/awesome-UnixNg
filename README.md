@@ -3,7 +3,6 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 This list is a survey of new generation tools of Unix (Linux, MacOS etc.). 
-It's the 21st centry. It is time to try new tools.
 
 # Contents 
 
