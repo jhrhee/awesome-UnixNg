@@ -29,6 +29,8 @@ It's the 21st centry. It is time to try new tools.
   * [lazygit](https://github.com/jesseduffield/lazygit)
 * find
   * [fd](https://github.com/sharkdp/fd) under an evaluation
+* df
+  * [duf](https://www.cyberciti.biz/open-source/command-line-hacks/duf-disk-usage-free-utility-for-linux-bsd-macos-windows/)
 
 ### Languages
 
